@@ -8,13 +8,13 @@ This project is a role-based access control system that allows users to register
 
 3. Features
 
-#Role Selection at Registration: Users can choose their role during sign-up (Admin, Customer, Employee).
+-> Role Selection at Registration: Users can choose their role during sign-up (Admin, Customer, Employee).
 
-#Dynamic Dashboards: Displays role-specific content upon login.
+-> Dynamic Dashboards: Displays role-specific content upon login.
 
-#Secure Authentication: Ensures only registered users can log in.
+-> Secure Authentication: Ensures only registered users can log in.
 
-#User-Friendly Interface: Simple and intuitive design for easy navigation.
+-> User-Friendly Interface: Simple and intuitive design for easy navigation.
 
 4. Instructions for Setup
 Clone or download the repository to your local machine.
